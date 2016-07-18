@@ -129,7 +129,7 @@
         PHP 5.5
         MySql 5.6.17
 
-### Database - social_login.sql
+### Database
     Need to create a database named rets_api and improt rets_api.sql file to that db.
 
 ### Database configurations - db_config.php
